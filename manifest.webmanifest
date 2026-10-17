@@ -1,0 +1,36 @@
+{
+  "id": "./index.html",
+  "name": "App",
+  "short_name": "App",
+  "description": "",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "background_color": "#1e1e2e",
+  "theme_color": "#181825",
+  "lang": "en",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [],
+  "orientation": "any",
+  "shortcuts": [
+    {
+      "name": "Games",
+      "short_name": "Games",
+      "url": "./index.html#/",
+      "icons": []
+    },
+    {
+      "name": "Emulators",
+      "short_name": "Emulators",
+      "url": "./index.html#/emulator",
+      "icons": []
+    }
+  ]
+}
