@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "buildId": "df521468af6813ba44385a621e635f2ad7999bf3926fc8aa7b260cebeb20ad1a",
-  "digest": "UgPLkSMvCp7NlSeT3ZxMUOmktTn3cIOZx3Yyjz5Vx+pwKSxuIaf3bzFJs+w6LpdP",
+  "buildId": "1273e79610081040c61b325516a24c9092674a24fe47018f090acd3d05c1d9d7",
+  "digest": "7JKKhMJom8wi72eP7qbPtGQ2TYfAUyQMpBrA36jniGm37IdPtuqFpR7RSQa46DEq",
   "files": [
     {
       "path": "assets/wasi-worker-browser-C3LVgLiA.js",
@@ -16,28 +16,28 @@
       "sri": "sha384-Z0hV2yJvpcKblGlgUsQpRPLwtVTShPsBN4BAEjrWWx5pkAzftj599gj6P5j4iVMs"
     },
     {
-      "path": "ek53kyc9.js",
-      "bytes": 433258,
-      "sha384": "5z6j2yRzyc1OCgwaodm/BKc6ABzZPa34f6tMxhTjaOyE4nl80+qY3AZAxhDM05p6",
-      "sri": "sha384-5z6j2yRzyc1OCgwaodm/BKc6ABzZPa34f6tMxhTjaOyE4nl80+qY3AZAxhDM05p6"
-    },
-    {
-      "path": "igoh5mge.wasm",
-      "bytes": 947586,
-      "sha384": "DPegqOj4X0niUAJwWcYDo+UrV1QgBcieacWE5ciX9dy2YsEDrANlEzA8uMzuik+G",
-      "sri": "sha384-DPegqOj4X0niUAJwWcYDo+UrV1QgBcieacWE5ciX9dy2YsEDrANlEzA8uMzuik+G"
+      "path": "bpw53gxk.js",
+      "bytes": 14296,
+      "sha384": "dSAWKgA6OZ7N2d4izrRHmrzWwLg3NhDHf9lUdMk5C/B/xynUMv7en4IDpgmuZf1G",
+      "sri": "sha384-dSAWKgA6OZ7N2d4izrRHmrzWwLg3NhDHf9lUdMk5C/B/xynUMv7en4IDpgmuZf1G"
     },
     {
       "path": "index.html",
-      "bytes": 3006,
-      "sha384": "XRIWgU5dXqSh+zsWGlFUQnm5o2fL+LTOztPa4ae2S/akAdjkRkdb0goQhOSRLSLp",
-      "sri": "sha384-XRIWgU5dXqSh+zsWGlFUQnm5o2fL+LTOztPa4ae2S/akAdjkRkdb0goQhOSRLSLp"
+      "bytes": 3114,
+      "sha384": "fzXnMkEniqMqQnZrtSIn9Ax5MLWQbaash1D2WjO/9DsNHi49EhrlOYUFfJvxEkUK",
+      "sri": "sha384-fzXnMkEniqMqQnZrtSIn9Ax5MLWQbaash1D2WjO/9DsNHi49EhrlOYUFfJvxEkUK"
     },
     {
       "path": "isolation-worker.js",
       "bytes": 7408308,
       "sha384": "D1VrDi+L2MExI1fPs5WVDnVtTiE9mmNjcuU9VVorvStw+aMBcJe+CCB6HPoxhjkj",
       "sri": "sha384-D1VrDi+L2MExI1fPs5WVDnVtTiE9mmNjcuU9VVorvStw+aMBcJe+CCB6HPoxhjkj"
+    },
+    {
+      "path": "ji10cto3.wasm",
+      "bytes": 947586,
+      "sha384": "DPegqOj4X0niUAJwWcYDo+UrV1QgBcieacWE5ciX9dy2YsEDrANlEzA8uMzuik+G",
+      "sri": "sha384-DPegqOj4X0niUAJwWcYDo+UrV1QgBcieacWE5ciX9dy2YsEDrANlEzA8uMzuik+G"
     },
     {
       "path": "lightningcss_node.wasm",
@@ -47,39 +47,39 @@
     },
     {
       "path": "logo.svg",
-      "bytes": 19366962,
-      "sha384": "mePFsXoWs0RJQyp5ozm+a2GwZdLrxzlc7dgOFaf8M9GG+2GIc8kFrcE9lUNeMLQo",
-      "sri": "sha384-mePFsXoWs0RJQyp5ozm+a2GwZdLrxzlc7dgOFaf8M9GG+2GIc8kFrcE9lUNeMLQo"
-    },
-    {
-      "path": "m5fer9q5.js",
-      "bytes": 14299,
-      "sha384": "kG3oGr5/zzWePCQwMUUoxh9kwpZwINDUjFshsyRvXLVzYDeyUcicMiZDc+8QwiOv",
-      "sri": "sha384-kG3oGr5/zzWePCQwMUUoxh9kwpZwINDUjFshsyRvXLVzYDeyUcicMiZDc+8QwiOv"
+      "bytes": 19476724,
+      "sha384": "AuTxdPKjv3f+7A0KX1qPj8UH0JqP0u5//pWsnGW7jNSkX3Azjxh3QWQOQL319X5y",
+      "sri": "sha384-AuTxdPKjv3f+7A0KX1qPj8UH0JqP0u5//pWsnGW7jNSkX3Azjxh3QWQOQL319X5y"
     },
     {
       "path": "mount.js",
-      "bytes": 9066,
-      "sha384": "wnAtaslqc8hWvn43XGaAlo6c2Tc4iyYOzLvn9YDscuRwtTUO7folTmz6ZPWhltLd",
-      "sri": "sha384-wnAtaslqc8hWvn43XGaAlo6c2Tc4iyYOzLvn9YDscuRwtTUO7folTmz6ZPWhltLd"
+      "bytes": 9065,
+      "sha384": "VylOCVF+4SLMLmyF8V2jgASxKyK8/vCz4rGDUm4b5gCprnQNkP8P8WtkhNjGcU1C",
+      "sri": "sha384-VylOCVF+4SLMLmyF8V2jgASxKyK8/vCz4rGDUm4b5gCprnQNkP8P8WtkhNjGcU1C"
     },
     {
-      "path": "qp0k3btz.js",
-      "bytes": 40982,
-      "sha384": "we/RVw9Ks6Dt0h+GaksgLhdp3vg5Tk9U7KIH/62rm/8VHTb2aEV2iLvDXheGYyxw",
-      "sri": "sha384-we/RVw9Ks6Dt0h+GaksgLhdp3vg5Tk9U7KIH/62rm/8VHTb2aEV2iLvDXheGYyxw"
+      "path": "nk60r4ok.js",
+      "bytes": 433301,
+      "sha384": "AkFovUYnoM4DwaQfxjGvJWxCJhq0s+OOnRxjp7ECBo61OHH0xge4t9QNbvL4ExwO",
+      "sri": "sha384-AkFovUYnoM4DwaQfxjGvJWxCJhq0s+OOnRxjp7ECBo61OHH0xge4t9QNbvL4ExwO"
     },
     {
       "path": "sw.js",
       "bytes": 521178,
-      "sha384": "jYUobeI0KNpJ0qm2wVRd4zooEutvJ6qfS3nUyK3YJZzUyVrUynNMmK4Os/v6db64",
-      "sri": "sha384-jYUobeI0KNpJ0qm2wVRd4zooEutvJ6qfS3nUyK3YJZzUyVrUynNMmK4Os/v6db64"
+      "sha384": "3MohONAcrmVChf7CMojK+zlAB0occRJwJ1Zxyvje7pf07bbw7iqtlq2QS7GJdLMm",
+      "sri": "sha384-3MohONAcrmVChf7CMojK+zlAB0occRJwJ1Zxyvje7pf07bbw7iqtlq2QS7GJdLMm"
     },
     {
-      "path": "sxi4zrxs.js",
-      "bytes": 13320,
-      "sha384": "jB4rls1B1tUND6fSM01HGwTGJgLBWueAALZFuaeMVtY0JVFHV3kIruE2Mbla6ayg",
-      "sri": "sha384-jB4rls1B1tUND6fSM01HGwTGJgLBWueAALZFuaeMVtY0JVFHV3kIruE2Mbla6ayg"
+      "path": "tqvivtn2.js",
+      "bytes": 40979,
+      "sha384": "Wb+NfDaYVM4gqMQqYwh0yE7lH5vPONXzEU7Tr5yj1ttUCOild1T9G/Xen5Dm9v3+",
+      "sri": "sha384-Wb+NfDaYVM4gqMQqYwh0yE7lH5vPONXzEU7Tr5yj1ttUCOild1T9G/Xen5Dm9v3+"
+    },
+    {
+      "path": "u5pmk78i.js",
+      "bytes": 13324,
+      "sha384": "11HkkrcheULn8dUMOh9wo4efCxwPJkcW5hkVqCB2KhdeZWX6RgbYpduTAsw/1Pd3",
+      "sri": "sha384-11HkkrcheULn8dUMOh9wo4efCxwPJkcW5hkVqCB2KhdeZWX6RgbYpduTAsw/1Pd3"
     },
     {
       "path": "woff2.wasm",
